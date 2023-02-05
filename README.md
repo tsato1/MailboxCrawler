@@ -4,6 +4,6 @@
 
 # to generate an executable file
 ```
-pyinstaller --onefile -w getDistinctAddresses.py
+pyinstaller --onefile -w main.py
 ```
 (-w for not launching a console window)
